@@ -18,10 +18,6 @@ body {
   visibility: hidden;
   position: relative;
   overflow: hidden;
-  background-image: url('img/background.png'); /* Change the path to your image */
-  background-size: cover; /* Make sure the image covers the entire container */
-  background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Avoid image repetition */
 }
 
 .container div.six {
